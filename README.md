@@ -1,5 +1,5 @@
 # NBATest
-##[SpeedTest.cs] Test Scenario 1 – Speed Load onto Edge Browser
+### [SpeedTest.cs] Test Scenario 1 – Speed Load onto Edge Browser
 Comparing the speed of both Edge and Chrome browsers while opening the nba.com website.
 
 ### [SpeedTest.cs] Test Scenario 2 - Verifying Title of Page
