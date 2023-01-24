@@ -56,7 +56,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SpeedTest.cs" />
+    <Compile Include="pages\LoginPage.cs" />
+    <Compile Include="test_cases\NBALogin.cs" />
+    <Compile Include="test_cases\NBARegister.cs" />
+    <Compile Include="pages\RegistrationPage.cs" />
+    <Compile Include="test_cases\SpeedTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
